@@ -1,0 +1,60 @@
+/*
+ Theme Name:   ShopKit
+ Theme URI:    http://mihajlovicnenad.com/shopkit-for-woocommerce
+ Author:       Mihajlovic Nenad
+ Author URI:   http://mihajlovicnenad.com/
+ Description:  The easiest WooCommerce shop experience! Full flavour, zero stalls! - Mihajlovicnenad.com!
+ Version:      1.0.0
+ License:      GNU General Public License v2.0
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, accessibility-ready, custom-colors, custom-menu, featured-images, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+ Text Domain: shopkit
+*/
+
+.shopkit-section-right .shopkit-layout-element {
+    margin-left: 10px;
+    color: #ffffff;
+}
+
+.shopkit .shopkit-elements-bar-top-bar .shopkit-section span {
+    vertical-align: middle;
+    font-family: "Raleway", sans-serif;
+    font-size: 11px;
+    color: #fff;
+}
+
+
+.shopkit-layout-element-breadcrumbs li {
+    float: left;
+    margin-left: 5px;
+    color: #fff;
+}
+
+.shopkit-layout-element-separator.shopkit-height-60, img.shopkit-height-60, .shopkit-height-60 img, .shopkit-height-60 svg {
+    max-height: 80px;
+}
+
+.shopkit h1 {
+    color: #222;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 42px;
+    margin-bottom: 42px;
+    margin-top: 30px;
+}
+
+.shopkit .shopkit-elements-bar-header .shopkit-layout-element-separator {
+    background-color: #fff;
+}
+
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, svg, footer, header, hgroup, main, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    color: #666;
+}
